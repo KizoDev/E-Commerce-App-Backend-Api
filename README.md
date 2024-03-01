@@ -1,2 +1,1 @@
-# E-Commerce-App-Backend-Api
-this is an E-Commerce Backend Api created with TypeScript
+# Unit Testing Guide for an Express - NodeJS API Written in TypeScript
